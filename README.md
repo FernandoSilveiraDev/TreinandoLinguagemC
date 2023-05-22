@@ -1,4 +1,5 @@
-Repositório para praticar linguagem C.
+Repositório para praticar linguagem C, git, vim.
+
 
 
 
