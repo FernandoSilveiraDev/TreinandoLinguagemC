@@ -1,9 +1,11 @@
-
-Ex1 - Linguagem C
-
-Criar um algoritmo que imprima uma menssagem de "Hello World!".
-
-By: Fernando Silveira, Programador.
+Repositório para praticar linguagem C.
 
 
 
+E-Mail: fernandosilveiradev@gmail.com
+Programador
+Desenvolvedor Front-End
+Desenvolvedor Back-End
+Desenvolvedor FullStack
+
+by Fernando Silveira
