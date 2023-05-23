@@ -5,10 +5,11 @@
 
 ## Requisitos para conseguir entender melhor os códigos são:
 
+  Matemática.
   Algoritmo. 
   Código hexadecimal.
   Código Binário.
-  Matemática.
+  Tabela ASCII.
 
 ## O que é Linguagem C?
   
