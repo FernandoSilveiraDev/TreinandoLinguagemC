@@ -13,7 +13,7 @@
 
 ## O que é Linguagem C?
   
-  Linguagem C, é uma linguagem de programação, de alto nível onde podemos criar programas para diferentes hardwares utilizando linguagem humana onde a maioria das instruções são palavras em inglês ou acrônimos com referências da lingua inglesa, ela utiliza diversas bibliotecas para que seu programa possa ser criado, compilado (criar o arquivo executável para ai sim ser executado).
+  Linguagem C, é uma linguagem de programação, de baixo nível onde podemos criar programas para diferentes hardwares utilizando linguagem humana onde a maioria das instruções são palavras em inglês ou acrônimos com referências da lingua inglesa, ela utiliza diversas bibliotecas para que seu programa possa ser criado, compilado (criar o arquivo executável para ai sim ser executado).
  
   Compilar um programa é o ato de usar um programa para traduzir nossas instruções de alguma linguagem para código de máquina ou códigos binários.
 
