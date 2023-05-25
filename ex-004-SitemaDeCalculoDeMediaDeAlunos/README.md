@@ -1,12 +1,11 @@
 ## ex4 - Sistema de Cálculo de Média de Alunos
 
-    Você foi contratado para desenvolver um sistema que calcule a média das notas dos alunos de uma turma. O sistema deve permitir que você insira as notas dos alunos e calcular a média correspondente. O programa deve funcionar da seguinte maneira:
-
-      O programa começará solicitando o nome do aluno.
+  Você foi contratado para desenvolver um sistema que calcule a média das notas dos alunos de uma turma. O sistema deve permitir que você insira as notas dos alunos e calcular a média correspondente. O programa deve funcionar da seguinte maneira:
+  O programa começará solicitando o nome do aluno.
   Em seguida, você deve digitar a nota desse aluno.
-      Após digitar a primeira nota, o programa perguntará se há mais alguma nota para o aluno atual. Se a resposta for "S" ou "s", você poderá inserir outra nota. Caso contrário, o programa calculará a média das notas digitadas até o momento para o aluno atual.
-      O programa exibirá a média do aluno atual.
-      Em seguida, o programa perguntará se deseja adicionar notas para outro aluno. Se a resposta for "S" ou "s", você poderá repetir os passos anteriores para inserir notas para o próximo aluno. Caso contrário, o programa será encerrado.
+  Após digitar a primeira nota, o programa perguntará se há mais alguma nota para o aluno atual. Se a resposta for "S" ou "s", você poderá inserir outra nota. Caso contrário, o programa calculará a média das notas digitadas até o momento para o aluno atual.
+  O programa exibirá a média do aluno atual.
+  Em seguida, o programa perguntará se deseja adicionar notas para outro aluno. Se a resposta for "S" ou "s", você poderá repetir os passos anteriores para inserir notas para o próximo aluno. Caso contrário, o programa será encerrado.
 
 ## Dicas
 
