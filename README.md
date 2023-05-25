@@ -39,6 +39,15 @@
   Porém em cada sistema operacional precisamos de um compilador diferente. 
 
   compilar o Exemplo 1: no linux   
+  
+  precisamos instalar o compilador gcc
+  	
+	apt install gcc -y
+	
+  Após a instalação ser concluida, na pasta raiz do projeto criado em c, na tela do terminal digitamos o exemplo a seguir:
+  OBS:!importante: note que se quisermos manter a versão de edição do código não podemos usar o mesmo nome. 
+  
+  	gcc HelloWorld.c -o HelloWorld
 
 
 E-Mail: fernandosilveiradev@gmail.com
