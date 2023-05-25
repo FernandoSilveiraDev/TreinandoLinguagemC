@@ -27,16 +27,16 @@
           float floatVal = 3.14159;
           double doubleVal = 2.71828;
           char charVal = 'A';
-          char stringVal[] = "Hello World";
-          void* ponterVal = &integerVal;
+          char stringVal[] = "Hello, World!";
+          void* pointerVal = &integerVal;
 
-          printf("Integer: $d\n", integerVal);
+          printf("Integer: %d\n", integerVal);
           printf("Unsigned Integer: %u\n", unsignedVal);
           printf("Float: %f\n", floatVal);
-          printf("Double: $lf\n", doubleVal);
+          printf("Double: %lf\n", doubleVal);
           printf("Character: %c\n", charVal);
           printf("String: %s\n", stringVal);
-          printf(Pointer: %p\n", pointerVal);
+          printf("Pointer: %p\n", pointerVal);
           printf("Hexadecimal: %x\n", integerVal);
           printf("Octal: %o\n", integerVal);
           printf("Scientific Notation: %e\n", doubleVal);
